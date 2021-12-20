@@ -7,6 +7,7 @@
 - 🖥️ I'm currently studying web development at <a href="https://www.betrybe.com/">Trybe</a>
 - 💼 I'm looking for an opportunity to develop my career
 - 💬 I’m looking to collaborate on open source projects
+- Portfolio: https://gabrielferreirasl.github.io/ 👋
 
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=Gabrielferreirasl' />
