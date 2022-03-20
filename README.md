@@ -10,7 +10,7 @@
 <!-- - Portfolio: https://gabrielferreirasl.github.io/ 👋 -->
 
 <div align="center">
-  <img width="500" height="200" src='https://github-readme-stats.vercel.app/api?username=Gabrielferreirasl' />
+  <img height="200" src='https://github-readme-stats.vercel.app/api?username=Gabrielferreirasl' />
   <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielferreirasl' />
   </div>
 
