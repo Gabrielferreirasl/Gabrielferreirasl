@@ -5,13 +5,13 @@
 </p>
 
 - 🖥️ I'm currently studying web development at <a href="https://www.betrybe.com/">Trybe</a>
-- 💼 I'm looking for an opportunity to develop my career
+- 💼 I'm looking for an opportunity to initiate my carrer
 - 💬 I’m looking to collaborate on open source projects
-- Portfolio: https://gabrielferreirasl.github.io/ 👋
+<!-- - Portfolio: https://gabrielferreirasl.github.io/ 👋 -->
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=Gabrielferreirasl' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielferreirasl' />
+  <img height="200" src='https://github-readme-stats.vercel.app/api?username=Gabrielferreirasl' />
+  <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielferreirasl' />
   </div>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
