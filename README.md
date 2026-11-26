@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Gabriel, and I'm a 26-year-old Full-stack Developer focused on building scalable and high-quality applications.
+My name is Gabriel, and I'm a 27-year-old Senior Full-stack Developer with 6+ years of experience focused on building scalable and high-quality applications.
 
 Throughout my professional journey, I explored different areas, but it was in software development where I found my true passion. Since then, I've been dedicated to developing end-to-end solutions, working across both front-end and back-end.
 
@@ -26,12 +26,11 @@ Throughout my professional journey, I explored different areas, but it was in so
 - Python
 
 ### Front-end
-- React (Redux, Context API)
+- React
 - Next.js
 - React Native
 - Material UI
 - Styled Components
-- Jest / RTL
 
 ### Back-end
 - Node.js
